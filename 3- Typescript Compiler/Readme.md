@@ -14,7 +14,7 @@ Command Line:
 To Quit, press `ctrl + c` in the terminal.
 Warning: Don't quit the watch mode whilst developing !
 
-## Compile the entiry project (multiple files)
+## Compile the entire project (multiple files)
 
 Assuming we have a project consists of multiple TS files that we need to compile on every change to see our updates rocking !
 
@@ -135,6 +135,7 @@ Don't produce a .js file if there is an error in the code.
 - If any file fails to compile, no files will be emitted !
 
 - Enable: to use a strict mode.
+
 - Disable: to ignore errors (incase you're sure it will work anyway!).
 
 Prefered Mode: Just enable it Noob :3
@@ -183,10 +184,11 @@ or Enable All but disable selectively
 ```
 
 ### 1. noImplicitAny
+
 Ensures that we have to be clear about the types of our variables and parameters, which doesn't include the any type.
 
-
 ## Code Quality Compiler Options
+
 Guess they are self-descriptive 
 
 ```json
@@ -197,7 +199,8 @@ Guess they are self-descriptive
 // "noFallthroughCasesInSwitch": true,    /* Report errors for fallthrough cases in switch statement. */
 ```
 
-## Debugging with visual studio code  
+## Debugging with visual studio code
+
 Use the `Debugger for chrome` or `Debugger for firefox` extension to enable debugging in vscode instead of the browser debugger.
 
 Actually vscode will help you to configure the `launch.json` for prefered debugger.
