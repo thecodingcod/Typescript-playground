@@ -8,4 +8,4 @@ Trying out the typescript features
 
 
 ## What did we cover so far?
-![mindmap](./assets/overview.svg)
+![mindmap](./assets/overview.png)
