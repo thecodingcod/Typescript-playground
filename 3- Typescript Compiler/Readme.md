@@ -1,4 +1,4 @@
-# Commonly Used Compiler Configs
+# 3- Commonly Used Compiler Configs
 
 ## Watch Mode (`-w` or `--watch`)
 

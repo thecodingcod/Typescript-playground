@@ -1,4 +1,4 @@
-# Typescript & Classes
+# 4- Typescript Classes
 Typescript brings the power of object-oriented capabilities presented in c# to use in typescript applications
 
 So far it supports the following :
